@@ -1,6 +1,6 @@
 {
   "name": "rn-swipeable-panel",
-  "version": "1.2.7",
+  "version": "1.0.0",
   "description": "Swipeable bottom panel for react native",
   "author": "Raj Kumar",
   "license": "MIT",
@@ -93,5 +93,8 @@
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
     "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "rn-swipeable-panel": "^1.2.5"
   }
 }
